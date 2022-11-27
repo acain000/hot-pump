@@ -5,7 +5,8 @@
 
 已將壓力及溫度計接上
 壓縮機的PV及SV尚未完成
-![主介面](https://media.discordapp.net/attachments/727145000575434802/1044114388723957780/image.png)
+溫度及壓力紀錄尚未完成
+![主介面](https://media.discordapp.net/attachments/727145000575434802/1046409976144478288/image.png)
 
 功率
 
