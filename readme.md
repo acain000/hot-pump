@@ -13,10 +13,12 @@
 壓縮機的PV及SV尚未完成
 
 ![主介面](https://media.discordapp.net/attachments/727145000575434802/1046409976144478288/image.png)
+![主介面](https://media.discordapp.net/attachments/727145000575434802/1054068330245402655/image.png)
 
 功率
 
 ![](https://cdn.discordapp.com/attachments/727145000575434802/1044140959081959444/image.png)
+![](https://media.discordapp.net/attachments/727145000575434802/1054069481363734628/image.png)
 
 壓縮機
 
@@ -29,7 +31,13 @@
 膨脹閥
 
 ![](https://media.discordapp.net/attachments/727145000575434802/1044142357022523432/image.png)
+![](https://media.discordapp.net/attachments/727145000575434802/1054070287697719346/image.png)
 
 警報
 
 ![](https://media.discordapp.net/attachments/727145000575434802/1044142629841018921/image.png)
+
+介面改良
+
+![](https://cdn.discordapp.com/attachments/727145000575434802/1054068843145875498/image.png)
+![](https://cdn.discordapp.com/attachments/727145000575434802/1054068946443194408/image.png)
