@@ -39,5 +39,5 @@
 
 介面改良
 
-![](https://cdn.discordapp.com/attachments/727145000575434802/1054068843145875498/image.png)
-![](https://cdn.discordapp.com/attachments/727145000575434802/1054068946443194408/image.png)
+![](https://media.discordapp.net/attachments/727145000575434802/1055707715978154025/image.png)
+![](https://media.discordapp.net/attachments/727145000575434802/1055709232864964659/image.png)
