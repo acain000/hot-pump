@@ -40,4 +40,4 @@
 介面改良
 
 ![](https://media.discordapp.net/attachments/727145000575434802/1055707715978154025/image.png)
-![](https://media.discordapp.net/attachments/727145000575434802/1055709232864964659/image.png)
+![](https://media.discordapp.net/attachments/727145000575434802/1056910312202313808/image.png)
